@@ -1,0 +1,145 @@
+﻿@model tacotron2_management.Models.TrainDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h2>Total in File: @Model.ListAudio.Count</h2>
+
+<div>
+    <h4>TblTrain</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Train.Folder)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Train.Folder)
+        </dd>
+        
+    </dl>
+</div>
+<div>
+    <a asp-action="TrainDetailsUpdate" asp-controller="TblTrains" asp-route-id="@Model.Train.Id">Update</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.ActionLink("ID", "Index")
+
+                </th>
+                <th>
+                    @Html.ActionLink("AudioName", "Index")
+
+                </th>
+                <th>
+                    @Html.ActionLink("Duration(s)", "Index")
+
+                </th>
+                <th>
+                    @Html.ActionLink("Size (Kb)", "Index")
+                </th>
+                <th>
+                    @Html.ActionLink("Transcript Content", "Index")
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ListAudio)
+            {
+                <audio hidden controls id="audio-@item.Id">
+                    <source src="@item.URL" type="audio/wav">
+                </audio>
+
+                @* <button style="display: none;" onclick="stopAndCloseAudio(this)">Close</button> *@
+
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AudioName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Duration)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Size)
+                    </td>
+                    <td class="column-width">
+                        @if (item.TblTranscriptId == -1)
+                        {
+                            <text>none</text>
+                        }
+                        else
+                        {
+                            @Html.DisplayFor(modelItem => item.TblTranscript.Content)
+                        }
+                    </td>
+                    <td>
+                        <button type="button" class="play-button btn btn-success" data-audio-id="@item.Id" onclick="toggleButtonClass(this)">Play</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $(".play-button").click(function () {
+            var audioId = $(this).attr("data-audio-id");
+            var audio = document.getElementById("audio-" + audioId);
+            if (audio.hasAttribute("hidden")) {
+                audio.removeAttribute("hidden");
+            } else {
+                audio.setAttribute("hidden", "true");
+            }
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        });
+    });
+
+    function toggleButtonClass(button) {
+        // Toggle the class on the button
+        button.classList.toggle("btn-warning");
+        button.classList.toggle("btn-success");
+
+        button.innerHTML = button.innerHTML === "Play" ? "Stop" : "Play";
+        // You can add more logic here if needed
+    }
+</script>
+
+<script>
+    function stopAndCloseAudio(button) {
+        var audio = button.previousElementSibling; // Reference the audio element
+        if (audio) {
+            audio.pause(); // Stop the audio
+            audio.currentTime = 0; // Reset the audio playback position to the beginning
+            audio.hidden = true; // Hide the audio element
+            button.style.display = 'none'; // Hide the button
+        }
+    }
+
+    // Add an event listener to show the button when the audio is played
+    var audioElements = document.querySelectorAll('audio[controls]'); // Select all audio elements with controls
+    audioElements.forEach(function (audio) {
+        audio.addEventListener('play', function () {
+            var button = audio.nextElementSibling; // Reference the button as a sibling
+            if (button) {
+                button.style.display = 'inline-block'; // Display the button
+            }
+        });
+    });
+</script>

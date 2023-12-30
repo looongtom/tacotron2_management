@@ -1,0 +1,46 @@
+﻿@model tacotron2_management.Models.SingleFileModel
+
+@{
+    ViewData["Title"] = "Single File FileUpload";
+
+}
+@{
+    int selectedTranscriptId = (int)(Context.Session.GetInt32("SelectedTranscriptId") ?? 0);
+}
+<h1>Create</h1>
+<p>Transcript ID: @selectedTranscriptId</p>
+
+<h4>TblAudio</h4>
+<hr />
+
+<form asp-action="Upload" asp-controller="tblAudios" method="post" enctype="multipart/form-data">
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Select File</label>
+            <input asp-for="File" class="form-control" />
+            <span asp-validation-for="File" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Trasncript for the Audio has the ID:</label>
+            <input asp-for="TranscriptID" class="form-control" value="@selectedTranscriptId" readonly />
+            <span asp-validation-for="TranscriptID" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <button type="submit" class="btn btn-success">Upload File</button>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

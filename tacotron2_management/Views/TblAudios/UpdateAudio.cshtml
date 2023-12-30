@@ -1,0 +1,53 @@
+﻿@model tacotron2_management.Models.SingleFileModel
+
+@{
+    ViewData["Title"] = "Update Audio";
+
+}
+@{
+    int selectedAudioId = (int)(Context.Session.GetInt32("SelectedAudioId") ?? 0);
+    int selectedTranscriptId = (int)(Context.Session.GetInt32("SelectedTranscriptId") ?? 0);
+    String contentTranscript = (String)(Context.Session.GetString("ContentTranscript") ?? "");
+}
+<h1>Update</h1>
+<p>Audio ID: @selectedAudioId</p>
+@* <p>Transcript ID: @selectedTranscriptId</p> *@
+<p>Transcript Content:"@contentTranscript"</p>
+<a asp-action="ChooseTranscriptUpdate" asp-route-audioID="@selectedAudioId" asp-route-transcriptID="@selectedTranscriptId" class="btn btn-primary">Update Transcript for Audio</a> 
+
+<h4>TblAudio</h4>
+<hr />
+
+<form asp-action="UpdateAudio" asp-route-id="@selectedAudioId" asp-route-transcriptID="@selectedTranscriptId" asp-controller="tblAudios" method="post" enctype="multipart/form-data">
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Update the Audio with ID:</label>
+            <input asp-for="AudioID" class="form-control" value="@selectedAudioId" readonly />
+            <span asp-validation-for="AudioID" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Select File</label>
+            <input asp-for="File" class="form-control" />
+            <span asp-validation-for="File" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <button type="submit" class="btn btn-success">Upload File</button>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

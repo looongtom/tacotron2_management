@@ -1,0 +1,181 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tacotron2_management
+build_property.RootNamespace = tacotron2_management
+build_property.ProjectDir = D:\HTTM\tacotron2_management\tacotron2_management\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\HTTM\tacotron2_management\tacotron2_management
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/ExpertListeners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJ0TGlzdGVuZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/ExpertListeners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJ0TGlzdGVuZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/ExpertListeners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJ0TGlzdGVuZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/ExpertListeners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJ0TGlzdGVuZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/ExpertListeners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJ0TGlzdGVuZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/ChooseAudioForTrain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXENob29zZUF1ZGlvRm9yVHJhaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/ChooseTranscript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXENob29zZVRyYW5zY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblAudios/UpdateAudio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsQXVkaW9zXFVwZGF0ZUF1ZGlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/IndexRetrain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXEluZGV4UmV0cmFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblModels/Retrain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsTW9kZWxzXFJldHJhaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/ChooseTrainFileForModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXENob29zZVRyYWluRmlsZUZvck1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTrains/TrainDetailsUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhaW5zXFRyYWluRGV0YWlsc1VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/ViewToChoose.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcVmlld1RvQ2hvb3NlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/TblTranscripts/ViewToChooseUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJsVHJhbnNjcmlwdHNcVmlld1RvQ2hvb3NlVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HTTM/tacotron2_management/tacotron2_management/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9434qc2jsi

@@ -1,0 +1,6 @@
+﻿body {
+    background-image: url('../robot-readers.png'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    background-repeat: no-repeat;
+}

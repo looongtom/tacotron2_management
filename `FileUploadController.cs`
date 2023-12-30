@@ -1,0 +1,27 @@
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+using tacotron2_management.Models;
+
+namespace tacotron2_management.Controllers
+{
+    public class FileUploadController : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Upload(FileUploadViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                // TODO: Add your file upload logic here
+
+                return RedirectToAction("Index", "Home");
+            }
+
+            return View(model);
+        }
+    }
+}

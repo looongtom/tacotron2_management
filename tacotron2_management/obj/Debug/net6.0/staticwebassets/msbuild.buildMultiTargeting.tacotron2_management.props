@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tacotron2_management.props" />
+</Project>

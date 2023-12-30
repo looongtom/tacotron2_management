@@ -1,0 +1,33 @@
+﻿/* Example custom CSS for pagination */
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+    .pagination li {
+        margin: 5px;
+    }
+
+    .pagination a {
+        text-decoration: none;
+        border: 1px solid #007bff;
+        padding: 5px 10px;
+        color: #007bff;
+    }
+
+        .pagination a:hover {
+            background-color: #007bff;
+            color: white;
+        }
+
+    .pagination li.active a {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .pagination li.disabled a {
+        pointer-events: none;
+        color: #868e96;
+    }

@@ -1,0 +1,73 @@
+﻿@model X.PagedList.IPagedList<tacotron2_management.Models.TblTranscript>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+@using X.PagedList.Web.Common;
+
+@* <link href="~/css/custom-pagedList.css" rel="stylesheet" type="text/css" /> *@
+<link href="~/css/custom-pagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewData["Title"] = "Choose Transcript for the Audio";
+
+}
+
+<h1>Transcript</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@using (Html.BeginForm("Index", "TblTranscripts", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Content) *@
+                @Html.ActionLink("ID", "Index")
+
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Content) *@
+                @Html.ActionLink("Content", "Index")
+
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.IsTrained) *@
+                @Html.ActionLink("IsTrained", "Index")
+
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Content)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsTrained)
+                </td>
+                <td>
+                    <a asp-action="Choose" asp-route-id="@item.Id" class="btn btn-primary">Choose</a> |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+@* @Html.PagedListPager( (IPagedList)Model, page => Url.Action("Index",new { page})) *@
+

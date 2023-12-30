@@ -1,0 +1,225 @@
+﻿@model IEnumerable<tacotron2_management.Models.TblModel>
+<link href="~/css/custom-pagedList.css" rel="stylesheet" type="text/css" />
+<link href="~/css/model.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewData["Title"] = "Model management";
+    Boolean checkRetrain = true;
+    string messageType = GlobalMessage.GlobalStr;
+    string modelName = GlobalModelName.GlobalModel;
+}
+@{
+    string startDate = (string)(Context.Session.GetString("startDate"));
+    string endDate = (string)(Context.Session.GetString("endDate"));
+}
+
+<div id="successMessageAlert" style="@(messageType == "Success" ? "display:block;" : "display:none;")" class="alert alert-success alert-dismissible fade in">
+    <a href="#" class="close" id="closeAlert" data-dismiss="alert" aria-label="close" onclick="closeAlertAndSetGlobalStr();">&times;</a>
+    <strong>Success!</strong>
+    <p id="successMessage">New model has been trained successfully. Updated the model name: @modelName</p>
+</div>
+<div id="warningMessageAlert" style="@(messageType == "Warning" ? "display:block;" : "display:none;")" class="alert alert-danger alert-dismissible fade in">
+    <a href="#" class="close" id="closeAlert" data-dismiss="alert" aria-label="close" onclick="closeAlertAndSetGlobalStr();">&times;</a>
+    <strong>Warning!</strong>
+    <p id="warningMessage">The retrained model has higher loss average than the previous model. Keep the previous model of @modelName</p>
+</div>
+<h1>Model management</h1>
+@{
+    string fileTrain = (string)(Context.Session.GetString("previous_fileTrain") ?? "Null");
+    string modelURL = (string)(Context.Session.GetString("previous_modelURL") ?? "Null");
+    string lossAverage = (string)(Context.Session.GetString("previous_lossAverage") ?? "Null");
+
+}
+@* <p> File train: @fileTrain</p>
+<p> Model URL: @modelURL</p>
+<p> Loss average: @lossAverage</p> *@
+
+
+<p>
+    @* <a asp-action="Create" class="btn btn-info">Create New</a> *@
+    @if (!Model.Any(item => item.Status == "Is training"))
+    {
+        checkRetrain = true;
+        <a asp-action="Create" class="btn btn-info">Create New</a>
+    }
+    else
+    {
+        checkRetrain = false;
+        <span style="color:lightgray;" class="btn btn-secondary " onclick="alert('Cannot train new Model while a model is training')">Create New</span>
+    }
+
+</p>
+
+@using (Html.BeginForm("Index", "TblModels", FormMethod.Get))
+{
+    <label for="startDate">Start Date:</label>
+    <input type="date" id="startDate" name="startDate" value="@(startDate != null ? DateTime.Parse(startDate).ToString("yyyy-MM-dd") : null)">
+
+    <label for="endDate">End Date:</label>
+    <input type="date" id="endDate" name="endDate" value="@(endDate != null ? DateTime.Parse(endDate).ToString("yyyy-MM-dd") : null)">
+
+    <button type="submit">Search</button>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th style="width: 100px;">
+                @Html.DisplayNameFor(model => model.Url)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrainDate)
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.MosAverage) *@
+                Average Loss
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                Actions
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Url)
+                </td>
+                <td>
+                    @if (item.TrainDate.HasValue)
+                    {
+                        @item.TrainDate.Value.ToString("dd/MM/yyyy")
+                        @* <text>@item.TrainDate.Value.ToString("MM/dd/yyyy")</text> *@
+                    }
+                    else
+                    {
+                        <text>N/A</text>
+                    }
+                </td>
+                <td>
+                    @* @Html.DisplayFor(modelItem => item.MosAverage) *@
+                    @if (item.MosAverage == null || item.MosAverage == -1)
+                    {
+                        <text>none</text>
+                    }
+                    else
+                    {
+                        <text>@item.MosAverage</text>
+                    }
+                </td>
+                <td>
+                    @{
+                        if (item.Status == "Is training")
+                        {
+                            <div class="status-col">
+                                <span>@Html.DisplayFor(modelItem => item.Status)</span>
+                                <div style="width:10px"></div>
+                                <div class="loader">
+                                </div>
+                            </div>
+
+
+                        }
+                        else if (item.Status == "Default")
+                        {
+                            <span style="color: green; font-weight: bold; background-color: lightgray;">@Html.DisplayFor(modelItem => item.Status)</span>
+                        }
+                        else
+                        {
+                            @Html.DisplayFor(modelItem => item.Status)
+                        }
+                    }
+                </td>
+
+                <td style="width: 300px;">
+                    @{
+                        if (checkRetrain)
+                        {
+                            <a asp-action="Retrain" asp-route-id="@item.Id" class="btn btn-warning">Retrain</a>
+                        }
+                        else
+                        {
+                            <span style="color:lightgray;" class="btn btn-secondary " onclick="alert('Cannot retrain Model while a model is training')">Retrain</span>
+                        }
+                    }
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-dark">Details</a>
+                    @* <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a> *@
+                    @if (item.Status != "Completely trained")
+                    {
+                        <button class="btn btn-secondary" disabled>Delete</button>
+                    }
+                    else
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    }
+                    <form asp-action="ChooseAsDefault" asp-route-id="@item.Id">
+                        <input type="submit" value="Select default" class="btn btn-success" />
+                    </form>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<script type="text/javascript">
+    // Reload the page after 5 seconds
+    setTimeout(function () {
+        window.location.reload();
+    }, 5000); // 5000 milliseconds = 5 seconds
+</script>
+<script type="text/javascript">
+    function closeAlertAndSetGlobalStr() {
+        // Close the alert
+
+        // Set the new value for GlobalVariables
+        // GlobalVariables.SetGlobalStr("new value");
+        console.log("closeAlertAndSetGlobalStr");
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("RefreshMessage", "TblModels")',
+            success: function (result) {
+                // Handle the success response if needed
+                console.log('Message refreshed successfully');
+            },
+            error: function (error) {
+                // Handle the error response if needed
+                console.log('Error refreshing message:', error);
+            }
+        });
+        window.location.reload();
+
+    }
+
+</script>
+@* <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var messageType = @messageType;
+        console.log("messageType="+messageType);
+        // Get the alert elements
+        var successAlert = document.getElementById('successMessageAlert');
+        var warningAlert = document.getElementById('warningMessageAlert');
+
+        // Check the messageType and display the corresponding alert
+        if (messageType === 'Success') {
+            successAlert.style.display = 'block';
+        }
+        if (messageType === 'Warning') {
+            warningAlert.style.display = 'block';
+        }
+        else {
+            successAlert.style.display = 'none';
+            warningAlert.style.display = 'none';
+        }
+    });
+</script> *@

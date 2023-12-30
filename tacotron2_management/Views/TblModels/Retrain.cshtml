@@ -1,0 +1,317 @@
+﻿@model tacotron2_management.Models.ModelDetails
+
+@{
+    ViewData["Title"] = "Retrain";
+}
+<h1>List audios and transcript from file train of model</h1>
+
+<div style="text-align: right;">
+    @if (Model.Train != null)
+    {
+        <form method="post" asp-action="RetrainModel" asp-route-idTrain="@Model.Train.Id" asp-route-idModel="@Model.Model.Id">
+            <button type="submit" class="btn btn-warning">Retrain the model</button>
+        </form>
+    }
+    else
+    {
+        <p style="color: red">MODEL WAS NOT CHOSEN ANY FILE TO TRAIN</p>
+        <br />
+
+    }
+
+</div>
+<hr />
+
+@* <div>
+    <h4>TblModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model.Url)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model.Url)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model.TrainDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model.TrainDate)
+        </dd>
+        <dt class="col-sm-2">
+            Average Loss
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model.MosAverage)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model.Status)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model.Status)
+        </dd>
+    </dl>
+</div> *@
+
+@if (Model.Train != null)
+{
+    <p>
+        File train: @Model.Train.Folder
+    </p>
+}
+@if (@Model.ListCheckUntrained != null)
+{
+    <h2>Total untrained Audios in File: @Model.ListCheckUntrained.Count</h2>
+    <h2>Total trained Audios in File: @(Model.ListAudio.Count - Model.ListCheckUntrained.Count)</h2>
+}
+@* else
+{
+    <h2>Total trained Audios in File: 0</h2>
+} *@
+
+@if (Model != null && Model.ListAudio!=null)
+{
+    <button id="selectAllButton" class="btn btn-info">Select All</button>
+    <button id="unselectAllButton" class="btn btn-outline-info">Unselect All</button>
+    <br />
+    <div>
+        <br />
+        <form action="/TblTrains/CustomUpdateBeforeRetrain" method="post">
+            <button id="buttonCreateNewTrain" type="submit" class="btn btn-success">Update before retrain</button>
+            <p id="errorMessage" style="color: red;"></p>
+            @if (Model.Train != null)
+            {
+                <input type="hidden" name="idTrain" value="@Model.Train.Id" />
+            }
+            <br />
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.ActionLink("ID", "Index")
+
+                        </th>
+                        <th>
+                            @Html.ActionLink("AudioName", "Index")
+
+                        </th>
+                        <th>
+                            @Html.ActionLink("Duration(s)", "Index")
+
+                        </th>
+                        <th>
+                            @Html.ActionLink("Size (Kb)", "Index")
+                        </th>
+                        <th>
+                            @Html.ActionLink("Transcript Content", "Index")
+                        </th>
+                        <th>
+                            <p id="selectedCount" style="font-size: 20px;">0 Audio selected</p>
+
+                            @Html.ActionLink("Choose", "Index")
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.ListAudio)
+                    {
+                        <audio hidden controls id="audio-@item.Id">
+                            <source src="@item.URL" type="audio/wav">
+                        </audio>
+
+
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AudioName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Duration)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Size)
+                            </td>
+                            <td class="column-width">
+                                @if (item.TblTranscriptId == -1)
+                                {
+                                    <text>none</text>
+                                }
+                                else
+                                {
+                                    @Html.DisplayFor(modelItem => item.TblTranscript.Content)
+                                }
+                            </td>
+                            <td>
+                                @* <input type="checkbox" name="selectedTrainedItems" value="@item.Id" class="checkChooseAdudio" style="width: 30px;height: 30px;" checked /> *@
+                                @if (Model.ListCheckUntrained != null && !Model.ListCheckUntrained.Contains(item.Id))
+                                {
+                                    <input type="checkbox" name="selectedTrainedItems" value="@item.Id" class="checkChooseAdudio" style="width: 30px;height: 30px;" checked />
+                                }
+                                else
+                                {
+                                    <input type="checkbox" name="selectedTrainedItems" value="@item.Id" class="checkChooseAdudio" style="width: 30px;height: 30px;" />
+                                }
+                            </td>
+                            <td>
+                                <button type="button" class="play-button btn btn-success" data-audio-id="@item.Id" onclick="toggleButtonClass(this)">Play</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </form>
+
+
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.Model.Id">Update Train file</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+else
+{
+    <h2 style="color:red">There is no train file for this model</h2>
+    <form id="chooseTrainForm" method="post" asp-action="ChooseTrainFileVer2" asp-controller="TblModels">
+        <input type="hidden" id="modelId" name="modelId" value="@Model.Model.Id" />
+        <button type="submit" class="btn btn-primary">Choose Train File</button>
+    </form>
+}
+
+
+
+
+<script>
+
+    updateSelectedCountUntrained();
+    document.getElementById("selectAllUntrainedButton").addEventListener("click", function () {
+        var checkboxes = document.querySelectorAll("input[type='checkbox'].checkChooseAdudioUntrained");
+        checkboxes.forEach(function (checkbox) {
+            checkbox.checked = true;
+        });
+        updateSelectedCountUntrained();
+    });
+
+    document.getElementById("unselectAllUntrainedButton").addEventListener("click", function () {
+        var checkboxes = document.querySelectorAll("input[type='checkbox'].checkChooseAdudioUntrained");
+        checkboxes.forEach(function (checkbox) {
+            checkbox.checked = false;
+        });
+        updateSelectedCountUntrained();
+    });
+
+    document.querySelectorAll("input[type='checkbox'].checkChooseAdudioUntrained").forEach(function (checkbox) {
+        checkbox.addEventListener("click", function () {
+            updateSelectedCountUntrained();
+        });
+    });
+
+    function updateSelectedCountUntrained() {
+        var selectedCountUntrained = document.querySelectorAll("input[type='checkbox'].checkChooseAdudioUntrained:checked").length;
+        document.getElementById("selectedCountUntrained").textContent = selectedCountUntrained + " Audio selected";
+    }
+
+</script>
+
+
+<script>
+    updateSelectedCount();
+    document.getElementById("selectAllButton").addEventListener("click", function () {
+        var checkboxes = document.querySelectorAll("input[type='checkbox'].checkChooseAdudio");
+        checkboxes.forEach(function (checkbox) {
+            checkbox.checked = true;
+        });
+        updateSelectedCount();
+    });
+
+    document.getElementById("unselectAllButton").addEventListener("click", function () {
+        var checkboxes = document.querySelectorAll("input[type='checkbox'].checkChooseAdudio");
+        checkboxes.forEach(function (checkbox) {
+            checkbox.checked = false;
+        });
+        updateSelectedCount();
+    });
+
+    document.querySelectorAll("input[type='checkbox'].checkChooseAdudio").forEach(function (checkbox) {
+        checkbox.addEventListener("click", function () {
+            updateSelectedCount();
+        });
+    });
+
+    function updateSelectedCount() {
+        var selectedCount = document.querySelectorAll("input[type='checkbox'].checkChooseAdudio:checked").length;
+        document.getElementById("selectedCount").textContent = selectedCount + " Audio selected";
+
+        var submitButton = document.querySelector("#buttonCreateNewTrain"); // Select the button by ID
+        var errorMessage = document.getElementById("errorMessage");
+
+        if (selectedCount < 100) {
+            submitButton.disabled = true; // Disable the button
+            errorMessage.textContent = "You must select at least 100 rows.";
+        } else {
+            submitButton.disabled = false; // Enable the button
+            errorMessage.textContent = "";
+        }
+    }
+
+</script>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $(".play-button").click(function () {
+            var audioId = $(this).attr("data-audio-id");
+            var audio = document.getElementById("audio-" + audioId);
+            if (audio.hasAttribute("hidden")) {
+                audio.removeAttribute("hidden");
+            } else {
+                audio.setAttribute("hidden", "true");
+            }
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        });
+    });
+
+    function toggleButtonClass(button) {
+        // Toggle the class on the button
+        button.classList.toggle("btn-warning");
+        button.classList.toggle("btn-success");
+
+        button.innerHTML = button.innerHTML === "Play" ? "Stop" : "Play";
+        // You can add more logic here if needed
+    }
+</script>
+
+<script>
+    function stopAndCloseAudio(button) {
+        var audio = button.previousElementSibling; // Reference the audio element
+        if (audio) {
+            audio.pause(); // Stop the audio
+            audio.currentTime = 0; // Reset the audio playback position to the beginning
+            audio.hidden = true; // Hide the audio element
+            button.style.display = 'none'; // Hide the button
+        }
+    }
+
+    // Add an event listener to show the button when the audio is played
+    var audioElements = document.querySelectorAll('audio[controls]'); // Select all audio elements with controls
+    audioElements.forEach(function (audio) {
+        audio.addEventListener('play', function () {
+            var button = audio.nextElementSibling; // Reference the button as a sibling
+            if (button) {
+                button.style.display = 'inline-block'; // Display the button
+            }
+        });
+    });
+</script>

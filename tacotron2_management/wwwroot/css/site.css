@@ -1,0 +1,26 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.column-width {
+    width: 500px; /* Set the desired width for the column */
+}
+
+.column-url-width {
+    width: 200px; /* Set the desired width for the column */
+}

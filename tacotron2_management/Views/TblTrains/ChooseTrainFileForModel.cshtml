@@ -1,0 +1,52 @@
+﻿@model IEnumerable<tacotron2_management.Models.TblTrain>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    int modelId = (int)(Context.Session.GetInt32("modelId") ?? 0);
+}
+<h1>Index</h1>
+<p>Choose a file to train to model id = @modelId</p>
+
+<p>
+    <a asp-action="ChooseAudioForTrain" class="btn btn-info">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Folder)
+            </th>
+            @* <th>
+            @Html.DisplayNameFor(model => model.TblModel)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Folder)
+                </td>
+                @* <td>
+            @Html.DisplayFor(modelItem => item.TblModel.Id)
+            </td> *@
+                <td>
+                    <a asp-action="ChooseTrainForModel" asp-route-id="@item.Id" class="btn btn-primary">Choose</a> |
+                </td>
+                @* <td>
+                    <a asp-action="Choose" asp-controller="TblModels" asp-route-transcriptID="@item.Id">Choose</a>
+                </td> *@
+            </tr>
+        }
+    </tbody>
+</table>

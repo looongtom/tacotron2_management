@@ -1,0 +1,223 @@
+﻿@model X.PagedList.IPagedList<tacotron2_management.Models.TblAudio>
+
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+@using X.PagedList.Web.Common;
+<link href="~/css/custom-pagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Audio</h1>
+<h2>Total Audios: @Model.TotalItemCount</h2>
+<h3>Total Audio untrained: @ViewBag.TotalUnTrainedAudio</h3>
+@* <p>
+    @if (@ViewBag.TotalUnTrainedAudio < @Model.TotalItemCount * 0.10)
+    {
+        <span class="btn btn-info disabled">Create new Train</span>
+        <p style="color: red;">Cannot create new train because the untrained data is less than 10% of the total.</p>
+    }
+    else
+    {
+    <a asp-action="Create" asp-controller="TblTrains" class="btn btn-info">Create new Train</a>
+    }
+</p> *@
+<button id="selectAllButton" class="btn btn-info">Select All</button>
+<button id="unselectAllButton" class="btn btn-outline-info">Unselect All</button>
+
+<form id="checkboxForm" action="/TblTrains/CustomCreate" method="post">
+    <br />
+    <button id="buttonCreateNewTrain" type="submit" class="btn btn-primary">Create new Train</button>
+    <p id="errorMessage" style="color: red;"></p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.ActionLink("ID", "Index")
+
+                </th>
+                <th>
+                    @Html.ActionLink("AudioName", "Index")
+
+                </th>
+                <th>
+                    @Html.ActionLink("Duration(s)", "Index")
+
+                </th>
+                <th>
+                    @Html.ActionLink("Size (Kb)", "Index")
+                </th>
+                <th>
+                    @Html.ActionLink("IsTrained", "Index")
+                </th>
+                @* <th>
+                @Html.ActionLink("MosScore", "Index")
+                </th> *@
+                <th>
+                    @Html.ActionLink("Transcript Content", "Index")
+                </th>
+                @* <th>
+                @Html.ActionLink("Action", "Index")
+                </th> *@
+                <th>
+                    <p id="selectedCount" style="font-size: 20px;">0 Audio selected</p>
+
+                    @Html.ActionLink("Choose", "Index")
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <audio hidden controls id="audio-@item.Id">
+                    <source src="@item.URL" type="audio/wav">
+                </audio>
+
+
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.AudioName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Duration)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Size)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IsTrained)
+                    </td>
+                    <td class="column-width">
+                        @if (item.TblTranscriptId == -1)
+                        {
+                            <text>none</text>
+                        }
+                        else
+                        {
+                            @Html.DisplayFor(modelItem => item.TblTranscript.Content)
+                        }
+                    </td>
+
+                    <td>
+                        <input type="checkbox" name="selectedItems" value="@item.Id" class="checkChooseAdudio" style="width: 30px;height: 30px;" />
+                    </td>
+
+                    <td>
+                        <button type="button" class="play-button btn btn-success" data-audio-id="@item.Id" onclick="toggleButtonClass(this)">Play</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+<br />
+
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, currentFilter = ViewBag.CurrentFilter }))
+
+<!-- JavaScript to handle audio playback -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    updateSelectedCount();
+    document.getElementById("selectAllButton").addEventListener("click", function () {
+        var checkboxes = document.querySelectorAll("input[type='checkbox'].checkChooseAdudio");
+        checkboxes.forEach(function (checkbox) {
+            checkbox.checked = true;
+        });
+        updateSelectedCount();
+    });
+
+    document.getElementById("unselectAllButton").addEventListener("click", function () {
+        var checkboxes = document.querySelectorAll("input[type='checkbox'].checkChooseAdudio");
+        checkboxes.forEach(function (checkbox) {
+            checkbox.checked = false;
+        });
+        updateSelectedCount();
+    });
+
+    document.querySelectorAll("input[type='checkbox'].checkChooseAdudio").forEach(function (checkbox) {
+        checkbox.addEventListener("click", function () {
+            updateSelectedCount();
+        });
+    });
+
+    function updateSelectedCount() {
+        var selectedCount = document.querySelectorAll("input[type='checkbox'].checkChooseAdudio:checked").length;
+        document.getElementById("selectedCount").textContent = selectedCount + " Audio selected";
+
+        var submitButton = document.querySelector("#buttonCreateNewTrain"); // Select the button by ID
+        var errorMessage = document.getElementById("errorMessage");
+
+        if (selectedCount < 100) {
+            submitButton.disabled = true; // Disable the button
+            errorMessage.textContent = "You must select at least 100 rows.";
+        } else {
+            submitButton.disabled = false; // Enable the button
+            errorMessage.textContent = "";
+        }
+    }
+
+</script>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $(".play-button").click(function () {
+            var audioId = $(this).attr("data-audio-id");
+            var audio = document.getElementById("audio-" + audioId);
+            if (audio.hasAttribute("hidden")) {
+                audio.removeAttribute("hidden");
+            } else {
+                audio.setAttribute("hidden", "true");
+            }
+            if (audio.paused) {
+                audio.play();
+            } else {
+                audio.pause();
+            }
+        });
+    });
+
+    function toggleButtonClass(button) {
+        // Toggle the class on the button
+        button.classList.toggle("btn-warning");
+        button.classList.toggle("btn-success");
+
+        button.innerHTML = button.innerHTML === "Play" ? "Stop" : "Play";
+        // You can add more logic here if needed
+    }
+</script>
+
+<script>
+    function stopAndCloseAudio(button) {
+        var audio = button.previousElementSibling; // Reference the audio element
+        if (audio) {
+            audio.pause(); // Stop the audio
+            audio.currentTime = 0; // Reset the audio playback position to the beginning
+            audio.hidden = true; // Hide the audio element
+            button.style.display = 'none'; // Hide the button
+        }
+    }
+
+    // Add an event listener to show the button when the audio is played
+    var audioElements = document.querySelectorAll('audio[controls]'); // Select all audio elements with controls
+    audioElements.forEach(function (audio) {
+        audio.addEventListener('play', function () {
+            var button = audio.nextElementSibling; // Reference the button as a sibling
+            if (button) {
+                button.style.display = 'inline-block'; // Display the button
+            }
+        });
+    });
+</script>

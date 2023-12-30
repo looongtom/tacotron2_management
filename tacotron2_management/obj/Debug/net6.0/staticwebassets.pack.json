@@ -1,0 +1,2005 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\tacotron2_management.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tacotron2_management.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698104570610list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698104570610list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698105637000list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698105637000list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698106093473list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698106093473list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698106118507list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698106118507list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698238927318list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698238927318list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698239143896list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698239143896list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698586790555list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698586790555list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698587406683list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698587406683list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698589219275list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698589219275list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698608010670list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698608010670list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1698836579504list.txt",
+      "PackagePath": "staticwebassets\\Files\\1698836579504list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699039773165list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699039773165list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699056024685list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699056024685list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699056031460list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699056031460list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699059534675list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699059534675list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699061833750list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699061833750list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699061869234list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699061869234list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699061897353list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699061897353list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699061955741list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699061955741list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699062024408list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699062024408list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699062180144list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699062180144list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699062204018list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699062204018list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1699449493405list.txt",
+      "PackagePath": "staticwebassets\\Files\\1699449493405list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700354063646list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700354063646list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700483863282list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700483863282list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700608283127list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700608283127list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700660469978list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700660469978list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700660499368list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700660499368list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700660531807list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700660531807list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700660595350list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700660595350list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700660612170list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700660612170list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700660632297list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700660632297list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700662844039list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700662844039list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700662900755list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700662900755list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1700662904377list.txt",
+      "PackagePath": "staticwebassets\\Files\\1700662904377list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701796611655list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701796611655list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701797395376list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701797395376list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701799810331list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701799810331list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701799972058list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701799972058list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701800014600list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701800014600list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701890006219list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701890006219list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701896964670list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701896964670list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701896980638list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701896980638list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701898022057list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701898022057list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701898669351list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701898669351list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701898850403list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701898850403list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701899133914list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701899133914list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1701903796991list.txt",
+      "PackagePath": "staticwebassets\\Files\\1701903796991list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1702414925396list.txt",
+      "PackagePath": "staticwebassets\\Files\\1702414925396list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1702495081100list.txt",
+      "PackagePath": "staticwebassets\\Files\\1702495081100list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1702511037047list.txt",
+      "PackagePath": "staticwebassets\\Files\\1702511037047list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1702529218718list.txt",
+      "PackagePath": "staticwebassets\\Files\\1702529218718list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1702542204301list.txt",
+      "PackagePath": "staticwebassets\\Files\\1702542204301list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\1702543103982list.txt",
+      "PackagePath": "staticwebassets\\Files\\1702543103982list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\ModelAfterTrain\\best_model.pth",
+      "PackagePath": "staticwebassets\\Files\\ModelAfterTrain\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\ModelAfterTrain\\best_model_62.pth",
+      "PackagePath": "staticwebassets\\Files\\ModelAfterTrain\\best_model_62.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\list.txt",
+      "PackagePath": "staticwebassets\\Files\\list.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0001.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0001.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0002.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0002.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0003.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0003.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0004.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0004.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0005.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0005.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0006.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0006.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0007.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0007.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0008.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0008.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0009.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0009.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0010.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0010.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0011.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0011.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ001-0178.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ001-0178.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ002-0264.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ002-0264.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ002-0277.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ002-0277.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ002-0319.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ002-0319.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ003-0028.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ003-0028.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ003-0084.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ003-0084.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ003-0182.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ003-0182.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ003-0198.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ003-0198.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ003-0222.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ003-0222.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ003-0322.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ003-0322.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ004-0067.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ004-0067.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ004-0222.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ004-0222.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ005-0222.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ005-0222.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ006-0077.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ006-0077.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ006-0115.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ006-0115.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ006-0132.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ006-0132.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ007-0046.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ007-0046.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ008-0175.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ008-0175.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ008-0190.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ008-0190.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ009-0012.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ009-0012.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ009-0050.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ009-0050.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ009-0100.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ009-0100.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ009-0118.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ009-0118.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ009-0139.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ009-0139.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ010-0215.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ010-0215.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ011-0203.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ011-0203.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ011-0256.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ011-0256.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ012-0052.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ012-0052.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ012-0224.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ012-0224.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ013-0077.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ013-0077.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ013-0096.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ013-0096.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ013-0161.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ013-0161.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ013-0214.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ013-0214.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ014-0064.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ014-0064.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ014-0083.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ014-0083.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ015-0030.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ015-0030.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ015-0118.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ015-0118.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ015-0170.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ015-0170.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ015-0273.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ015-0273.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ016-0022.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ016-0022.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ017-0278.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ017-0278.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ018-0286.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ018-0286.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ018-0305.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ018-0305.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ018-0334.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ018-0334.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ019-0141.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ019-0141.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ019-0178.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ019-0178.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ019-0208.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ019-0208.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ019-0357.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ019-0357.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ019-0373.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ019-0373.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ019-0393.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ019-0393.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ020-0052.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ020-0052.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ020-0087.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ020-0087.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ021-0146.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ021-0146.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ022-0011.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ022-0011.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ022-0096.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ022-0096.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ025-0058.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ025-0058.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ025-0154.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ025-0154.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ027-0028.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ027-0028.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ027-0059.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ027-0059.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ027-0081.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ027-0081.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ028-0169.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ028-0169.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ028-0184.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ028-0184.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ028-0352.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ028-0352.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ028-0397.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ028-0397.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ028-0466.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ028-0466.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ030-0034.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ030-0034.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ030-0109.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ030-0109.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ031-0045.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ031-0045.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ032-0052.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ032-0052.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ033-0149.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ033-0149.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ034-0086.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ034-0086.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ034-0128.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ034-0128.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ035-0074.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ035-0074.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ035-0121.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ035-0121.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ035-0200.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ035-0200.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ036-0053.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ036-0053.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ037-0219.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ037-0219.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ038-0022.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ038-0022.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ039-0237.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ039-0237.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ040-0055.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ040-0055.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ040-0209.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ040-0209.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ041-0151.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ041-0151.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ043-0073.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ043-0073.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ043-0122.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ043-0122.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ044-0050.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ044-0050.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ044-0145.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ044-0145.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ044-0166.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ044-0166.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ046-0012.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ046-0012.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ046-0069.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ046-0069.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ047-0047.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ047-0047.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ047-0068.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ047-0068.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ048-0153.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ048-0153.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ048-0203.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ048-0203.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ048-0241.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ048-0241.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ049-0084.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ049-0084.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ049-0118.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ049-0118.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ049-0167.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ049-0167.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ050-0181.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ050-0181.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ050-0207.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ050-0207.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\Files\\wavs\\LJ050-0234.wav",
+      "PackagePath": "staticwebassets\\Files\\wavs\\LJ050-0234.wav"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\css\\custom-pagedList.css",
+      "PackagePath": "staticwebassets\\css\\custom-pagedList.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\css\\model.css",
+      "PackagePath": "staticwebassets\\css\\model.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwMQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwMQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwMw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwMw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwNw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwOQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAwOQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAxMA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAxMA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDAxMQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDAxMQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDEtMDE3OA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDEtMDE3OA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDItMDI2NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDItMDI2NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDItMDI3Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDItMDI3Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDItMDMxOQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDItMDMxOQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDMtMDA4NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDMtMDA4NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDMtMDAyOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDMtMDAyOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDMtMDE4Mg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDMtMDE4Mg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDMtMDE5OA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDMtMDE5OA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDMtMDIyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDMtMDIyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDMtMDMyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDMtMDMyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDQtMDA2Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDQtMDA2Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDQtMDIyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDQtMDIyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDUtMDIyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDUtMDIyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDYtMDA3Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDYtMDA3Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDYtMDExNQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDYtMDExNQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDYtMDEzMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDYtMDEzMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDctMDA0Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDctMDA0Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDgtMDE3NQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDgtMDE3NQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDgtMDE5MA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDgtMDE5MA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDktMDA1MA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDktMDA1MA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDktMDAxMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDktMDAxMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDktMDEwMA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDktMDEwMA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDktMDExOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDktMDExOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMDktMDEzOQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMDktMDEzOQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTAtMDIxNQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTAtMDIxNQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTEtMDI1Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTEtMDI1Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTEtMDIwMw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTEtMDIwMw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTItMDA1Mg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTItMDA1Mg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTItMDIyNA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTItMDIyNA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTMtMDA3Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTMtMDA3Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTMtMDA5Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTMtMDA5Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTMtMDE2MQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTMtMDE2MQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTMtMDIxNA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTMtMDIxNA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTQtMDA2NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTQtMDA2NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTQtMDA4Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTQtMDA4Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTUtMDAzMA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTUtMDAzMA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTUtMDE3MA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTUtMDE3MA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTUtMDExOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTUtMDExOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTUtMDI3Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTUtMDI3Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTYtMDAyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTYtMDAyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTctMDI3OA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTctMDI3OA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTgtMDI4Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTgtMDI4Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTgtMDMwNQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTgtMDMwNQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTgtMDMzNA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTgtMDMzNA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTktMDE0MQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTktMDE0MQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTktMDE3OA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTktMDE3OA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTktMDIwOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTktMDIwOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTktMDM1Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTktMDM1Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTktMDM3Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTktMDM3Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMTktMDM5Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMTktMDM5Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjAtMDA1Mg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjAtMDA1Mg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjAtMDA4Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjAtMDA4Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjEtMDE0Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjEtMDE0Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjItMDA5Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjItMDA5Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjItMDAxMQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjItMDAxMQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjUtMDA1OA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjUtMDA1OA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjUtMDE1NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjUtMDE1NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjctMDA1OQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjctMDA1OQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjctMDA4MQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjctMDA4MQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjctMDAyOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjctMDAyOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjgtMDE2OQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjgtMDE2OQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjgtMDE4NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjgtMDE4NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjgtMDM1Mg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjgtMDM1Mg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjgtMDM5Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjgtMDM5Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMjgtMDQ2Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMjgtMDQ2Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzAtMDAzNA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzAtMDAzNA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzAtMDEwOQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzAtMDEwOQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzEtMDA0NQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzEtMDA0NQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzItMDA1Mg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzItMDA1Mg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzMtMDE0OQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzMtMDE0OQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzQtMDA4Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzQtMDA4Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzQtMDEyOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzQtMDEyOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzUtMDA3NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzUtMDA3NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzUtMDEyMQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzUtMDEyMQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzUtMDIwMA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzUtMDIwMA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzYtMDA1Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzYtMDA1Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzctMDIxOQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzctMDIxOQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzgtMDAyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzgtMDAyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowMzktMDIzNw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowMzktMDIzNw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDAtMDA1NQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDAtMDA1NQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDAtMDIwOQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDAtMDIwOQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDEtMDE1MQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDEtMDE1MQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDMtMDA3Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDMtMDA3Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDMtMDEyMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDMtMDEyMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDQtMDA1MA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDQtMDA1MA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDQtMDE0NQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDQtMDE0NQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDQtMDE2Ng==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDQtMDE2Ng==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDYtMDA2OQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDYtMDA2OQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDYtMDAxMg==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDYtMDAxMg==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDctMDA0Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDctMDA0Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDctMDA2OA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDctMDA2OA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDgtMDE1Mw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDgtMDE1Mw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDgtMDI0MQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDgtMDI0MQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDgtMDIwMw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDgtMDIwMw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDktMDA4NA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDktMDA4NA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDktMDE2Nw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDktMDE2Nw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNDktMDExOA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNDktMDExOA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNTAtMDE4MQ==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNTAtMDE4MQ==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNTAtMDIwNw==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNTAtMDIwNw==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\phoneme_cache\\I3dhdnNcTEowNTAtMDIzNA==_phoneme.npy",
+      "PackagePath": "staticwebassets\\phoneme_cache\\I3dhdnNcTEowNTAtMDIzNA==_phoneme.npy"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\robot-readers.png",
+      "PackagePath": "staticwebassets\\robot-readers.png"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-06-2023_09+27PM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-December-06-2023_09+27PM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-06-2023_09+27PM-0000000\\events.out.tfevents.1701872864.DESKTOP-7BMV341.2800.0",
+      "PackagePath": "staticwebassets\\run-December-06-2023_09+27PM-0000000\\events.out.tfevents.1701872864.DESKTOP-7BMV341.2800.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-06-2023_09+27PM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-December-06-2023_09+27PM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-06-2023_09+27PM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-December-06-2023_09+27PM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+36PM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+36PM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+36PM-0000000\\events.out.tfevents.1702381003.DESKTOP-7BMV341.25292.0",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+36PM-0000000\\events.out.tfevents.1702381003.DESKTOP-7BMV341.25292.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+36PM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+36PM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+36PM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+36PM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+38PM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+38PM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+38PM-0000000\\events.out.tfevents.1702381106.DESKTOP-7BMV341.25292.1",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+38PM-0000000\\events.out.tfevents.1702381106.DESKTOP-7BMV341.25292.1"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+38PM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+38PM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-12-2023_06+38PM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-December-12-2023_06+38PM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_04+47AM-0000000\\best_model.pth",
+      "PackagePath": "staticwebassets\\run-December-14-2023_04+47AM-0000000\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_04+47AM-0000000\\best_model_212.pth",
+      "PackagePath": "staticwebassets\\run-December-14-2023_04+47AM-0000000\\best_model_212.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_04+47AM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-December-14-2023_04+47AM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_04+47AM-0000000\\events.out.tfevents.1702504058.DESKTOP-7BMV341.24116.0",
+      "PackagePath": "staticwebassets\\run-December-14-2023_04+47AM-0000000\\events.out.tfevents.1702504058.DESKTOP-7BMV341.24116.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_04+47AM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-December-14-2023_04+47AM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_04+47AM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-December-14-2023_04+47AM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_06+21AM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-December-14-2023_06+21AM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_06+21AM-0000000\\events.out.tfevents.1702509717.DESKTOP-7BMV341.24116.1",
+      "PackagePath": "staticwebassets\\run-December-14-2023_06+21AM-0000000\\events.out.tfevents.1702509717.DESKTOP-7BMV341.24116.1"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_06+21AM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-December-14-2023_06+21AM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_06+21AM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-December-14-2023_06+21AM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_08+38AM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-December-14-2023_08+38AM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_08+38AM-0000000\\events.out.tfevents.1702517924.DESKTOP-7BMV341.24288.0",
+      "PackagePath": "staticwebassets\\run-December-14-2023_08+38AM-0000000\\events.out.tfevents.1702517924.DESKTOP-7BMV341.24288.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_08+38AM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-December-14-2023_08+38AM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-December-14-2023_08+38AM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-December-14-2023_08+38AM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+35PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+35PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+35PM-eccc94be\\events.out.tfevents.1698820557.DESKTOP-7BMV341.10536.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+35PM-eccc94be\\events.out.tfevents.1698820557.DESKTOP-7BMV341.10536.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+35PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+35PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+35PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+35PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+45AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+45AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+45AM-eccc94be\\events.out.tfevents.1698777931.DESKTOP-7BMV341.12880.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+45AM-eccc94be\\events.out.tfevents.1698777931.DESKTOP-7BMV341.12880.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+45AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+45AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+45AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+45AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+46AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+46AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+46AM-eccc94be\\events.out.tfevents.1698777979.DESKTOP-7BMV341.21892.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+46AM-eccc94be\\events.out.tfevents.1698777979.DESKTOP-7BMV341.21892.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+46AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+46AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+46AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+46AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+47AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+47AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+47AM-eccc94be\\events.out.tfevents.1698778032.DESKTOP-7BMV341.26044.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+47AM-eccc94be\\events.out.tfevents.1698778032.DESKTOP-7BMV341.26044.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+47AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+47AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+47AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+47AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+49AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+49AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+49AM-eccc94be\\events.out.tfevents.1698778185.DESKTOP-7BMV341.4540.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+49AM-eccc94be\\events.out.tfevents.1698778185.DESKTOP-7BMV341.4540.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+49AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+49AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+49AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+49AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+58AM-eccc94be\\best_model.pth",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+58AM-eccc94be\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+58AM-eccc94be\\best_model_2.pth",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+58AM-eccc94be\\best_model_2.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+58AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+58AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+58AM-eccc94be\\events.out.tfevents.1698778717.DESKTOP-7BMV341.3432.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+58AM-eccc94be\\events.out.tfevents.1698778717.DESKTOP-7BMV341.3432.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+58AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+58AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_01+58AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_01+58AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_10+59AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_10+59AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_10+59AM-eccc94be\\events.out.tfevents.1698811176.DESKTOP-7BMV341.7016.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_10+59AM-eccc94be\\events.out.tfevents.1698811176.DESKTOP-7BMV341.7016.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_10+59AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_10+59AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_10+59AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_10+59AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+27AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+27AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+27AM-eccc94be\\events.out.tfevents.1698773270.DESKTOP-7BMV341.9880.1",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+27AM-eccc94be\\events.out.tfevents.1698773270.DESKTOP-7BMV341.9880.1"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+27AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+27AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+27AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+27AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+28AM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+28AM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+28AM-eccc94be\\events.out.tfevents.1698773327.DESKTOP-7BMV341.21960.0",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+28AM-eccc94be\\events.out.tfevents.1698773327.DESKTOP-7BMV341.21960.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+28AM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+28AM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-01-2023_12+28AM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-01-2023_12+28AM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+25PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+25PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+26PM-eccc94be\\colab_train.py",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+26PM-eccc94be\\colab_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+26PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+26PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+26PM-eccc94be\\events.out.tfevents.1699018008.DESKTOP-7BMV341.13920.0",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+26PM-eccc94be\\events.out.tfevents.1699018008.DESKTOP-7BMV341.13920.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+26PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+26PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+27PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+27PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+32PM-eccc94be\\colab_train.py",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+32PM-eccc94be\\colab_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+32PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+32PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+32PM-eccc94be\\events.out.tfevents.1699018354.DESKTOP-7BMV341.13292.0",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+32PM-eccc94be\\events.out.tfevents.1699018354.DESKTOP-7BMV341.13292.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-03-2023_08+32PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-03-2023_08+32PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+05PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+05PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+05PM-eccc94be\\events.out.tfevents.1699423557.DESKTOP-7BMV341.4452.0",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+05PM-eccc94be\\events.out.tfevents.1699423557.DESKTOP-7BMV341.4452.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+05PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+05PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+05PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+05PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+19PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+19PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+19PM-eccc94be\\events.out.tfevents.1699424358.DESKTOP-7BMV341.13252.0",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+19PM-eccc94be\\events.out.tfevents.1699424358.DESKTOP-7BMV341.13252.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+19PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+19PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-08-2023_01+19PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-08-2023_01+19PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+11PM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+11PM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+11PM-0000000\\events.out.tfevents.1700583117.DESKTOP-7BMV341.12700.0",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+11PM-0000000\\events.out.tfevents.1700583117.DESKTOP-7BMV341.12700.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+11PM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+11PM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+11PM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+11PM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+13PM-0000000\\best_model.pth",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+13PM-0000000\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+13PM-0000000\\best_model_198.pth",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+13PM-0000000\\best_model_198.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+13PM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+13PM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+13PM-0000000\\events.out.tfevents.1700583229.DESKTOP-7BMV341.15188.0",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+13PM-0000000\\events.out.tfevents.1700583229.DESKTOP-7BMV341.15188.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+13PM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+13PM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-21-2023_11+13PM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-21-2023_11+13PM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_01+48PM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-November-22-2023_01+48PM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_01+48PM-0000000\\events.out.tfevents.1700635720.DESKTOP-7BMV341.18848.0",
+      "PackagePath": "staticwebassets\\run-November-22-2023_01+48PM-0000000\\events.out.tfevents.1700635720.DESKTOP-7BMV341.18848.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_01+48PM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-22-2023_01+48PM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_01+48PM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-22-2023_01+48PM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_07+57AM-0000000\\best_model.pth",
+      "PackagePath": "staticwebassets\\run-November-22-2023_07+57AM-0000000\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_07+57AM-0000000\\best_model_198.pth",
+      "PackagePath": "staticwebassets\\run-November-22-2023_07+57AM-0000000\\best_model_198.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_07+57AM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-November-22-2023_07+57AM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_07+57AM-0000000\\events.out.tfevents.1700614651.DESKTOP-7BMV341.9816.0",
+      "PackagePath": "staticwebassets\\run-November-22-2023_07+57AM-0000000\\events.out.tfevents.1700614651.DESKTOP-7BMV341.9816.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_07+57AM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-22-2023_07+57AM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_07+57AM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-22-2023_07+57AM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_10+42AM-0000000\\best_model.pth",
+      "PackagePath": "staticwebassets\\run-November-22-2023_10+42AM-0000000\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_10+42AM-0000000\\best_model_99.pth",
+      "PackagePath": "staticwebassets\\run-November-22-2023_10+42AM-0000000\\best_model_99.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_10+42AM-0000000\\config.json",
+      "PackagePath": "staticwebassets\\run-November-22-2023_10+42AM-0000000\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_10+42AM-0000000\\events.out.tfevents.1700624566.DESKTOP-7BMV341.5092.0",
+      "PackagePath": "staticwebassets\\run-November-22-2023_10+42AM-0000000\\events.out.tfevents.1700624566.DESKTOP-7BMV341.5092.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_10+42AM-0000000\\server_train.py",
+      "PackagePath": "staticwebassets\\run-November-22-2023_10+42AM-0000000\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-November-22-2023_10+42AM-0000000\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-November-22-2023_10+42AM-0000000\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_02+21PM-eccc94be\\checkpoint_54.pth",
+      "PackagePath": "staticwebassets\\run-October-29-2023_02+21PM-eccc94be\\checkpoint_54.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_02+21PM-eccc94be\\colab_train.py",
+      "PackagePath": "staticwebassets\\run-October-29-2023_02+21PM-eccc94be\\colab_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_02+21PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-29-2023_02+21PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_02+21PM-eccc94be\\events.out.tfevents.1698564072.DESKTOP-7BMV341.20520.0",
+      "PackagePath": "staticwebassets\\run-October-29-2023_02+21PM-eccc94be\\events.out.tfevents.1698564072.DESKTOP-7BMV341.20520.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_02+21PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-29-2023_02+21PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_04+07PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-29-2023_04+07PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_04+07PM-eccc94be\\events.out.tfevents.1698570426.DESKTOP-7BMV341.14840.0",
+      "PackagePath": "staticwebassets\\run-October-29-2023_04+07PM-eccc94be\\events.out.tfevents.1698570426.DESKTOP-7BMV341.14840.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_04+07PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-29-2023_04+07PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_04+07PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-29-2023_04+07PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+38PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+38PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+38PM-eccc94be\\events.out.tfevents.1698593935.DESKTOP-7BMV341.10780.0",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+38PM-eccc94be\\events.out.tfevents.1698593935.DESKTOP-7BMV341.10780.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+38PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+38PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+38PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+38PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+50PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+50PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+50PM-eccc94be\\events.out.tfevents.1698594637.DESKTOP-7BMV341.19128.0",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+50PM-eccc94be\\events.out.tfevents.1698594637.DESKTOP-7BMV341.19128.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+50PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+50PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_10+50PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-29-2023_10+50PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_11+10PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-29-2023_11+10PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_11+10PM-eccc94be\\events.out.tfevents.1698595803.DESKTOP-7BMV341.16980.0",
+      "PackagePath": "staticwebassets\\run-October-29-2023_11+10PM-eccc94be\\events.out.tfevents.1698595803.DESKTOP-7BMV341.16980.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_11+10PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-29-2023_11+10PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-29-2023_11+10PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-29-2023_11+10PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_02+47PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-31-2023_02+47PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_02+47PM-eccc94be\\events.out.tfevents.1698738452.DESKTOP-7BMV341.24868.0",
+      "PackagePath": "staticwebassets\\run-October-31-2023_02+47PM-eccc94be\\events.out.tfevents.1698738452.DESKTOP-7BMV341.24868.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_02+47PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-31-2023_02+47PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_02+47PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-31-2023_02+47PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+18PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+18PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+18PM-eccc94be\\events.out.tfevents.1698740316.DESKTOP-7BMV341.22328.0",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+18PM-eccc94be\\events.out.tfevents.1698740316.DESKTOP-7BMV341.22328.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+18PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+18PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+18PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+18PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+31PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+31PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+31PM-eccc94be\\events.out.tfevents.1698741072.DESKTOP-7BMV341.5924.0",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+31PM-eccc94be\\events.out.tfevents.1698741072.DESKTOP-7BMV341.5924.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+31PM-eccc94be\\events.out.tfevents.1698741107.DESKTOP-7BMV341.5924.1",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+31PM-eccc94be\\events.out.tfevents.1698741107.DESKTOP-7BMV341.5924.1"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+31PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+31PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_03+31PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-31-2023_03+31PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+52PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+52PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+52PM-eccc94be\\events.out.tfevents.1698767556.DESKTOP-7BMV341.20964.0",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+52PM-eccc94be\\events.out.tfevents.1698767556.DESKTOP-7BMV341.20964.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+52PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+52PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+52PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+52PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+54PM-eccc94be\\best_model.pth",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+54PM-eccc94be\\best_model.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+54PM-eccc94be\\best_model_99.pth",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+54PM-eccc94be\\best_model_99.pth"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+54PM-eccc94be\\config.json",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+54PM-eccc94be\\config.json"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+54PM-eccc94be\\events.out.tfevents.1698767686.DESKTOP-7BMV341.9880.0",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+54PM-eccc94be\\events.out.tfevents.1698767686.DESKTOP-7BMV341.9880.0"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+54PM-eccc94be\\server_train.py",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+54PM-eccc94be\\server_train.py"
+    },
+    {
+      "Id": "D:\\HTTM\\tacotron2_management\\tacotron2_management\\wwwroot\\run-October-31-2023_10+54PM-eccc94be\\trainer_0_log.txt",
+      "PackagePath": "staticwebassets\\run-October-31-2023_10+54PM-eccc94be\\trainer_0_log.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.tacotron2_management.props",
+      "PackagePath": "build\\tacotron2_management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.tacotron2_management.props",
+      "PackagePath": "buildMultiTargeting\\tacotron2_management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.tacotron2_management.props",
+      "PackagePath": "buildTransitive\\tacotron2_management.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.tacotron2_management.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
